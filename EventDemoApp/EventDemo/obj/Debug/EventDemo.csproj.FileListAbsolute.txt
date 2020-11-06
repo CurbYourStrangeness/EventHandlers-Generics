@@ -1,0 +1,7 @@
+C:\Users\evolu\source\repos\EventDemoApp\EventDemo\bin\Debug\EventDemo.exe.config
+C:\Users\evolu\source\repos\EventDemoApp\EventDemo\bin\Debug\EventDemo.exe
+C:\Users\evolu\source\repos\EventDemoApp\EventDemo\bin\Debug\EventDemo.pdb
+C:\Users\evolu\source\repos\EventDemoApp\EventDemo\obj\Debug\EventDemo.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\EventDemoApp\EventDemo\obj\Debug\EventDemo.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\EventDemoApp\EventDemo\obj\Debug\EventDemo.exe
+C:\Users\evolu\source\repos\EventDemoApp\EventDemo\obj\Debug\EventDemo.pdb

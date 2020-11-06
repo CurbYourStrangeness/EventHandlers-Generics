@@ -1,0 +1,7 @@
+C:\Users\evolu\source\repos\EventHandlers_Generics\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\EventHandlers_Generics\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\EventHandlers_Generics\WrapUpDemoApp\WrapUpDemo\bin\Debug\WrapUpDemo.exe.config
+C:\Users\evolu\source\repos\EventHandlers_Generics\WrapUpDemoApp\WrapUpDemo\bin\Debug\WrapUpDemo.exe
+C:\Users\evolu\source\repos\EventHandlers_Generics\WrapUpDemoApp\WrapUpDemo\bin\Debug\WrapUpDemo.pdb
+C:\Users\evolu\source\repos\EventHandlers_Generics\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.exe
+C:\Users\evolu\source\repos\EventHandlers_Generics\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.pdb

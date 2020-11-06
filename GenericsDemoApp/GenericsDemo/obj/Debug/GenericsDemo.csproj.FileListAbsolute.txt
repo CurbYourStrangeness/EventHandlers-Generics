@@ -1,0 +1,7 @@
+C:\Users\evolu\source\repos\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\GenericsDemoApp\GenericsDemo\bin\Debug\GenericsDemo.exe.config
+C:\Users\evolu\source\repos\GenericsDemoApp\GenericsDemo\bin\Debug\GenericsDemo.exe
+C:\Users\evolu\source\repos\GenericsDemoApp\GenericsDemo\bin\Debug\GenericsDemo.pdb
+C:\Users\evolu\source\repos\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.exe
+C:\Users\evolu\source\repos\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.pdb
